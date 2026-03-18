@@ -75,4 +75,4 @@ Critérios de aceitação:
 
 **UC Relacionados:** [UC05](casos-de-uso.md#uc-05)
 **RF Relacionados:** [RF-09](requisitos-funcionais.md#rf-09), [RF-05](requisitos-funcionais.md#rf-05)
-**RNF Relacionados:** [RNF-07](requisitos-nao-funcionais.md#rnf-07)
+**RNF Relacionados:** [RNF-06](requisitos-nao-funcionais.md#rnf-06)
